@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Relation Extraction in Biomedical Texts: A Cross-Sentence Approach"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: '"Relation Extraction in Biomedical Texts: A Cross-Sentence Approach" discusses a novel method for extracting relationships between entities in biomedical literature, focusing on the capability to identify connections that span across multiple sentences. This approach enhances the understanding of complex biomedical narratives by leveraging contextual information and improving the accuracy of relation extraction in the field.'
+date: 2024
+venue: 'IEEE/ACM Transactions on Computational Biology and Bioinformatics'
+citation: 'Li, Zhijing, Liwei Tian, Yiping Jiang, and Yucheng Huang. "Relation Extraction in Biomedical Texts: A Cross-Sentence Approach." IEEE/ACM Transactions on Computational Biology and Bioinformatics (2024).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
