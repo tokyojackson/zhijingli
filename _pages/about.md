@@ -1,6 +1,11 @@
-
-About me
-
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am currently an Associate Researcher at Shenzhen University. I earned my Master's degree in Computer Science and Technology from Xi'an Jiaotong University in 2016 and my Ph.D. in the same field from Xi'an Jiaotong University in 2021. Following my Ph.D., she served as a Postdoctoral Researcher at the School of Data Science at the Chinese University of Hong Kong in 2021. I was recognized with several awards, including the Outstanding Graduate Student Award.
 
