@@ -13,7 +13,7 @@ title                    : "Zhijing Li's personal page"
 title_separator          : "-"
 name                     : &name "Zhijing Li"
 description              : &description "I am an associate researcher at Shenzhen University, passionate about travel, and have an introverted personality that enjoys exploring new cultures and landscapes during my journeys."
-url                      : "https://zhijingli.github.io"
+url                      : "https://tokyojackson.github.io/zhijingli/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
